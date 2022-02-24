@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Feb 10 17:06:25 2022
+# Process ID: 26578
+# Current directory: /home/dld2321a/Documents/VHDL/TP1_PulseGen/zybo-tp1/zybo-tp1.runs/synth_1
+# Command line: vivado -log pulse_gen.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pulse_gen.tcl
+# Log file: /home/dld2321a/Documents/VHDL/TP1_PulseGen/zybo-tp1/zybo-tp1.runs/synth_1/pulse_gen.vds
+# Journal file: /home/dld2321a/Documents/VHDL/TP1_PulseGen/zybo-tp1/zybo-tp1.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source pulse_gen.tcl -notrace

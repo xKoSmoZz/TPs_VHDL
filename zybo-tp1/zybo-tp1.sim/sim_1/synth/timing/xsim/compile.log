@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/dld2321a/Documents/VHDL/TP1_PulseGen/zybo-tp1/zybo-tp1.sim/sim_1/synth/timing/xsim/test_pulse_gen_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pulse_gen
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/dld2321a/Téléchargements/test_pulse_gen.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test_pulse_gen'
+ERROR: [VRFC 10-2927] 'pulse_gen' has only 0 generics [/home/dld2321a/Téléchargements/test_pulse_gen.vhd:56]
+ERROR: [VRFC 10-3782] unit 'behaviour' ignored due to previous errors [/home/dld2321a/Téléchargements/test_pulse_gen.vhd:22]
+INFO: [VRFC 10-3070] VHDL file '/home/dld2321a/Téléchargements/test_pulse_gen.vhd' ignored due to errors

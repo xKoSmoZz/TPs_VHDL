@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/dld2321a/Téléchargements/registres.0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'registres'
+ERROR: [VRFC 10-4982] syntax error near 'end' [/home/dld2321a/Téléchargements/registres.0.vhd:44]
+ERROR: [VRFC 10-2989] 'file_regs' is not declared [/home/dld2321a/Téléchargements/registres.0.vhd:58]
+ERROR: [VRFC 10-4982] syntax error near 'begin' [/home/dld2321a/Téléchargements/registres.0.vhd:61]
+INFO: [VRFC 10-3070] VHDL file '/home/dld2321a/Téléchargements/registres.0.vhd' ignored due to errors

@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+Failure: FIN DE SIMULATION
+Time: 23 us  Iteration: 0  Process: /test_pulse_gen/P_TEST  File: /home/dld2321a/Téléchargements/test_pulse_gen.vhd
+$finish called at time : 23 us : File "/home/dld2321a/Téléchargements/test_pulse_gen.vhd" Line 87
+Failure: FIN DE SIMULATION
+Time: 23 us  Iteration: 0  Process: /test_pulse_gen/P_TEST  File: /home/dld2321a/Téléchargements/test_pulse_gen.vhd
+$finish called at time : 23 us : File "/home/dld2321a/Téléchargements/test_pulse_gen.vhd" Line 87
+Failure: FIN DE SIMULATION
+Time: 46 us  Iteration: 0  Process: /test_pulse_gen/P_TEST  File: /home/dld2321a/Téléchargements/test_pulse_gen.vhd
+$finish called at time : 46 us : File "/home/dld2321a/Téléchargements/test_pulse_gen.vhd" Line 87
+Failure: FIN DE SIMULATION
+Time: 69 us  Iteration: 0  Process: /test_pulse_gen/P_TEST  File: /home/dld2321a/Téléchargements/test_pulse_gen.vhd
+$finish called at time : 69 us : File "/home/dld2321a/Téléchargements/test_pulse_gen.vhd" Line 87
